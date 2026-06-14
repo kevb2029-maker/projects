@@ -1,2 +1,2 @@
 # projects
-Projects1ofmany
+List of all my projects

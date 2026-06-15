@@ -1,4 +1,5 @@
 # projects
 List of all my projects
-001. TicTacToe
-002. Exercise_App
+001. Scientific Calculator
+002. TBD
+003. TBD
